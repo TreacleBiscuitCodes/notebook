@@ -9,6 +9,7 @@
   - [TBT Google]()
   - [TBT Kong]()
   - [TBT Vodafone]()
+  - [API News and Reviews]()
 - [Perfect Pizza]()
 - [Development Environment Reference]()
   - [MermaidJS > PlantUML]()
