@@ -23,17 +23,17 @@
   - [Proton > G Workspace]()
   - [vi > V$ code]()
   - [cloudflare > godaddy]()
-- [Coding]
-  - [AOC 2xxx]
-  - [Project Euler]
+- [Coding]()
+  - [AOC 2xxx]()
+  - [Project Euler]()
   - [crAPI]()
 - [Biking]()
   - [Early Days]()
-  - [Ducati Scramber]
-  - [Yamaha Tracer]
-  - [Vespa GTS300]
-  - [Suzuki DRZ400]
-  - [Rentals]
+  - [Ducati Scramber]()
+  - [Yamaha Tracer]()
+  - [Vespa GTS300]()
+  - [Suzuki DRZ400]()
+  - [Rentals]()
 - [Travel]()
 - [Gaming]()
   - [OSRS]()
