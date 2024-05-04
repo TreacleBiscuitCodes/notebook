@@ -1,0 +1,6 @@
+[book]
+authors = ["laughingbiscuit"]
+language = "en"
+multilingual = false
+src = "src"
+title = "TreacleBiscuit's Notebook"
