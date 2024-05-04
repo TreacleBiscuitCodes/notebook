@@ -29,8 +29,10 @@ jobs:
       - name: Run a one-line script
         run: echo Hello, world!
 
-      - name: rust-mdbook
-        uses: ryankurte/action-mdbook@0.1.1  
+      - name: Install mdbook and build
+        run: |
+          curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.37/mdbook-v0.4.37-x86_64-unknown-linux-gnu.tar.gz \
+            -o mdbook.tar.gz && tar -xvzf mdbook.tar.gz && ./mdbook build
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
